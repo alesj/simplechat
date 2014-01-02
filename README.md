@@ -1,13 +1,13 @@
-simplechat
+SimpleChat
 ==========
 
-SimpleChat
-
-This app is designed for CapeDwarf testing only -- use at your own risk.
+This app is designed for CapeDwarf's Channel API testing only -- use at your own risk.
 
 The MIT License (MIT)
 
 Copyright (c) 2013 Chris Ritter
+
+-------------------------------
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
