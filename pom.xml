@@ -15,7 +15,7 @@
     <description>Simple chat</description>
 
     <properties>
-        <version.com.google.gae>1.8.8</version.com.google.gae>
+        <version.com.google.gae>1.9.7</version.com.google.gae>
         <version.com.google.gson>2.2.4</version.com.google.gson>
         <version.com.google.guava>11.0.2</version.com.google.guava>
         <version.javax.servlet>3.0.1</version.javax.servlet>
